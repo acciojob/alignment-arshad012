@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+h2 {
+	text-align: center;
+}
+
+.middle {
+	width: 100%;
+	border: 1px solid black;
+	margin-top: 30px;
+}
+
+.center {
+	text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+
+#table-3 td {
+	text-align: center;
+	height: 20px;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
